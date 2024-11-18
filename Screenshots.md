@@ -5,6 +5,10 @@ Dockerfile for Containerized Application
 
 
 Screenshots Of The Deployments on GCP Cloud Run
+<img width="1440" alt="Screen Shot 2024-11-18 at 12 11 39 AM" src="https://github.com/user-attachments/assets/c229bf6f-eda1-49fc-8d2c-899069a0ccf4">
+<img width="1440" alt="Screen Shot 2024-11-18 at 12 11 54 AM" src="https://github.com/user-attachments/assets/e55d3d11-0117-4e8a-af6a-1c802fe7e799">
+<img width="1440" alt="Screen Shot 2024-11-18 at 12 12 06 AM" src="https://github.com/user-attachments/assets/59d84582-0d0e-449c-a954-e4560f571489">
+<img width="1440" alt="Screen Shot 2024-11-18 at 12 20 06 AM" src="https://github.com/user-attachments/assets/47e63fa3-464f-4028-9340-6df3738d07ee">
 
 Screenshots Of The Deployments on Azure Container Apps
 
