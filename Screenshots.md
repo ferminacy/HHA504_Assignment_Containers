@@ -14,5 +14,6 @@ Screenshots Of The Deployments on Azure Container Apps
 <img width="1440" alt="Screen Shot 2024-11-18 at 12 29 44 AM" src="https://github.com/user-attachments/assets/4ec33955-49de-40ed-afad-c25083de8e74">
 
 https://flaskcontainer.internal.nicefield-d76b0311.centralus.azurecontainerapps.io
-
-
+States it is running
+<img width="1440" alt="Screen Shot 2024-11-18 at 12 32 58 AM" src="https://github.com/user-attachments/assets/09a1ee1a-2eb5-498d-bbed-bbdf1e3ff8d3">
+but then url stated container is stopped.....
